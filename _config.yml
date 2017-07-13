@@ -105,6 +105,7 @@ defaults:
       path: ""
       type: "posts"
     values:
+      author: "Physics Coding Club"
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
