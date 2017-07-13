@@ -2,8 +2,7 @@
 layout: post
 title: Documentation
 subtitle: Helping future you
-classoption: aspectratio=169
-theme: York169dark
+author: Peter Hill
 ---
 
 It happens to the best of us -- you come across some incomprehensible
@@ -97,7 +96,7 @@ def fft(signal):
 
 - Do explain "magic"
     - The below is the famous "fast inverse square root" code from
-    [Quake III](https://github.com/id-Software/Quake-III-Arena/blob/master/code/game/q_math.c#L552)
+    [Quake III][quake]
 
 ```c
 float Q_rsqrt( float number )
@@ -211,7 +210,7 @@ Foos a and b together, returning a list of the results
 """
 ```
 
-- Tools exist for other languages, e.g. Doxygen, Ford
+- Tools exist for other languages, e.g. [Doxygen][doxygen], [Ford][ford]
 
 ```cpp
 //> Foos a and b together, returning a list of the results
@@ -239,3 +238,7 @@ function(a, b) result(list)
 - Write a README
 - Write inline documentation
 - Keep it up-to-date
+
+[quake]: https://github.com/id-Software/Quake-III-Arena/blob/master/code/game/q_math.c#L552
+[doxygen]: http://www.doxygen.org
+[ford]: https://github.com/cmacmackin/ford

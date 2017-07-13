@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Physics Coding Club
+title: About Us
 subtitle: Skills and training for people developing research software
 ---
 
