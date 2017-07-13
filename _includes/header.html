@@ -48,7 +48,11 @@
 <div class="intro-header no-img">
   <div class="container">
     <div class="row">
+      {% if include.type == "page" %}
+      <div class="col-lg-10 col-lg-offset-1 col-md-8 col-md-offset-2">
+      {% else %}
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      {% endif %}
         <div class="{{ include.type }}-heading">
           <h1>{% if page.title %}{{ page.title }}{% else %}<br/>{% endif %}</h1>
 		  {% if page.subtitle %}
