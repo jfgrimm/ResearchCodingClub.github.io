@@ -1,16 +1,23 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Physics Coding Club
+subtitle: Skills and training for people developing research software
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Physics Coding Club at the University of York is an informal group for people who write or develop
+research software in the Department of Physics. We meet weekly to discuss various topics around
+developing software, best practices, etc., including the odd hands-on session to learn new skills,
+or polish rusty ones.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Here are some topics we've covered:
 
-What else do you need?
+- Version control
+- Documentation
+- Tests and test driven development
+- How modern CPUs work
+- Understanding compilers
+- Efficient numerical programming with Python
 
-### my history
+Subscribe to [our mailing list!][1]
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+[1]: mailto:physics-coding-club-group+subscribe@york.ac.uk
