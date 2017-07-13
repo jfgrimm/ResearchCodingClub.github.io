@@ -18,6 +18,6 @@ Here are some topics we've covered:
 - Understanding compilers
 - Efficient numerical programming with Python
 
-Subscribe to [our mailing list!][1]
+Subscribe to [our mailing list][1] to get updates on upcoming meetings.
 
 [1]: mailto:physics-coding-club-group+subscribe@york.ac.uk
