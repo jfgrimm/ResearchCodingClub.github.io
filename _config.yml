@@ -17,7 +17,7 @@ description: Skills and training for people developing research software
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Coding Club: "aboutcodingclub"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
