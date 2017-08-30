@@ -8,7 +8,8 @@ theme. Adding a new blog post is incredibly simple:
    under [`_posts`](./_posts)
 2. Make sure the file name begins with the date in `YYYY-MM-DD-`
    format
-3. Make sure the first lines contain at least the following:
+3. Make sure the first lines contain at least the following (this is
+   the YAML header):
 
 ```
 ---
@@ -19,6 +20,10 @@ subtitle: Subtitle of the post
 
 4. Write the post, commit and push
 5. Done!
+
+Similarly, for a new "resources" page, just dump a markdown file in
+[`_resources`](./resources). No need to worry about the filename, just
+make sure it has a `title` in the YAML header.
 
 More advanced features are described below.
 

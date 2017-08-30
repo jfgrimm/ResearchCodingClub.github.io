@@ -16,8 +16,18 @@
 
     <div class="collapse navbar-collapse" id="main-navbar">
       <ul class="nav navbar-nav navbar-right">
+        <!-- This is a lovely hack to parse the "Resources" collection specially -->
       {% for link in site.navbar-links %}
-        {% if link[1].first %}
+        {% if link[1].first == "Resources" %}
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="{{ site.baseurl }}/resources">{{ link[0] }}</a>
+            <div class="navlinks-children">
+              {% for childlink in site.resources %}
+                <a href="{{ childlink.url | prepend: site.baseurl }}">{{ childlink.title }}</a>
+              {% endfor %}
+            </div>
+          </li>
+        {% elsif link[1].first %}
           <li class="navlinks-container">
             <a class="navlinks-parent" href="javascript:void(0)">{{ link[0] }}</a>
             <div class="navlinks-children">
@@ -33,7 +43,7 @@
             {% include navbarlink.html link=link %}
           </li>
         {% endif %}
-        {% endfor %}
+      {% endfor %}
       </ul>
     </div>
 
