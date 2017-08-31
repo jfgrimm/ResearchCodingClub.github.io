@@ -237,7 +237,7 @@ In order of effectiveness:
 - More generally useful though
 - Designed with B&W printing, colour blindness, perceptual uniformity
   in mind
-- <https://colorbrewer2.org>
+- <http://colorbrewer2.org>
 
 ![grayscale_01_04.png](/img/visualisation/grayscale_01_04.png)
 
@@ -255,7 +255,7 @@ In order of effectiveness:
 
 - Set of Jupyter notebooks on data visualisation:
   <https://github.com/UoMResearchIT/data-vis-truthiness-hurts>
-- Brewer colours for qualitative data: <https://colorbrewer2.org>
+- Brewer colours for qualitative data: <http://colorbrewer2.org>
 - Theory of colourmaps: <http://peterkovesi.com/projects/colourmaps/>
 - Colourmaps in Matplotlib: <https://matplotlib.org/users/colormaps.html#colormaps>
 
