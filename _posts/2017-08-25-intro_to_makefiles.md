@@ -69,7 +69,16 @@ target: prerequisites
     recipe
 ```
 
-- Note: that’s a literal **tab** before recipe
+- Note: that’s a literal **tab** before recipe. If you don't use a
+  tab, you'll get a mysterious error message along the lines of
+
+```
+:makefile:4: *** missing separator.  Stop.
+```
+
+- This most likely means you've used spaces instead of a tab in front
+  of the recipe. See [this StackOverflow answer][SOanswer] for one way
+  to hunt down missing tabs.
 
 # Advantages of `make`
 
@@ -342,3 +351,4 @@ $(OBJDIR):
 ```
 
 [slides]: /slides/2017-08-25-intro_to_makefiles.pdf
+[SOanswer]: https://stackoverflow.com/a/16945143/2043465
