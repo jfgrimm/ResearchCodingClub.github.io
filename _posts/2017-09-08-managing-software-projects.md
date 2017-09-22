@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Managing your software project
-subtitle: 
 author: Phil Hasnip
 classoption: aspectratio=169
 theme: York169dark
