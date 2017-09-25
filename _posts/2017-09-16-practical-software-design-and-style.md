@@ -380,12 +380,12 @@ Where should it live?
 ## References
 [http://www.catb.org/~esr/writings/taoup/html/ch01s06.html][unix]
 
-[http://www.csm.ornl.gov/meetings/SCNEworkshop/Post-IV.pdf][acsi]
+[http://www.csm.ornl.gov/meetings/SCNEworkshop/Post-IV.pdf][asci]
 
 [http://www.castep.org][castep]
 
 [unix]: http://www.catb.org/~esr/writings/taoup/html/ch01s06.html
 
-[acsi]: http://www.csm.ornl.gov/meetings/SCNEworkshop/Post-IV.pdf
+[asci]: http://www.csm.ornl.gov/meetings/SCNEworkshop/Post-IV.pdf
 
 [castep]: http://www.castep.org
