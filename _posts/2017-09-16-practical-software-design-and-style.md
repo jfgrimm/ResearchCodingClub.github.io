@@ -56,8 +56,6 @@ Start with a blank piece of paper, not a blank file
 - Extensibility: Design for the future; it's sooner than you think!
 - Representation: Fold knowledge into data so program logic can be stupid and robust.
 
-#
-
 ## Design considerations
 - Economy: Your time is expensive, conserve it (in preference to machine time).
 - Generation: Avoid hand-coding; write programs to write programs when you can.
@@ -148,8 +146,6 @@ If you use a particular synonym or abbreviation (e.g. "calc" for "calculate") th
 
 - Generally: nouns for variables, verbs for functions.
 
-#
-
 ## Variables
 
 - Think about what you need to know about a variable; perhaps:
@@ -184,8 +180,6 @@ If you use a particular synonym or abbreviation (e.g. "calc" for "calculate") th
 - Try not to change data you don't `own'
 
 - Consider restricting access (private data)
-
-#
 
 
 ## Encapsulation
@@ -366,9 +360,8 @@ Where should it live?
     - Is $E_b$ a property of $H$, $\Psi$ or a separate object?
     - What about something which depends _upon_ $E_b$?
 
-# 
+# Summary
 
-## Summary
 - Think before coding!
      - What, why, who for, and *then* how
      - How much is new?
