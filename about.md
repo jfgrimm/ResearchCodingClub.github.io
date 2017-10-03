@@ -18,6 +18,10 @@ Here are some topics we've covered:
 - Understanding compilers
 - Efficient numerical programming with Python
 
-Subscribe to [our mailing list][1] to get updates on upcoming meetings.
+[Visit the forum][2] or subscribe to [our mailing list][1] (just send
+a blank email) to get updates on upcoming meetings. We normally meet
+on Fridays at 11am, with the venue moving between different locations
+on campus.
 
 [1]: mailto:physics-coding-club-group+subscribe@york.ac.uk
+[2]: https://groups.google.com/a/york.ac.uk/group/physics-coding-club-group
