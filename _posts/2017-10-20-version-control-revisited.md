@@ -6,10 +6,9 @@ classoption: aspectratio=169
 theme: York169dark
 ---
 
-A new academic year rolls around, with new faces, and new opportunity
-to introduce best practices! Does this seem familiar: "report.doc",
-"report_2.doc", "report_final_2_for_real.doc"? If so, congratulations!
-You've been using version control!
+Does this seem familiar: "report.doc", "report_2.doc",
+"report_final_2_for_real.doc"? If so, congratulations! You've been
+using version control! But there has to be a better way, right?
 
 This week, we revisited `git`, learning how to using version control
 in a slightly more sustainable manner.
