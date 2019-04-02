@@ -32,41 +32,36 @@ You can get the slides for the talk [here][slides]
 
 ## The building blocks: diffs
 
-::::::{.columns}
-:::{.column width=40%}
-![A simple diff](images/fortran_diff.png){width=90%}
-:::
-:::{.column width=60%}
+![A simple diff](/img/version_control_1810/fortran_diff.png)
+
 - Shows differences between individual lines
 - Lines beginning with "`-`" have been removed
 - Lines beginning with "`+`" have been added
 - Changed lines are shown as removal plus addition
-:::
-::::::
 
 # The gist of git
 
 ## Add diffs to a staging area
 
-![Add diffs to stage](images/diffs_into_box.png){width=60%}
+![Add diffs to stage](/img/version_control_1810/diffs_into_box.png)
 
 # The gist of git
 
 ## Commit the staging area to the repository
 
-![Commit changes to the repository](images/box_into_lockers.png){width=50%}
+![Commit changes to the repository](/img/version_control_1810/box_into_lockers.png)
 
 # The gist of git
 
 ## Commit the staging area to the repository
 
-![Commit changes to the repository](images/box_into_tree.png){width=45%}
+![Commit changes to the repository](/img/version_control_1810/box_into_tree.png)
 
 # This gist of git
 
 ## Sync with other people's repositories
 
-![Sync local and remote repositories](images/sync_lockers.png){width=60%}
+![Sync local and remote repositories](/img/version_control_1810/sync_lockers.png)
 
 # The basic commands
 
@@ -106,13 +101,6 @@ $ git merge <branch>        # Merge a branch into this one
 - Sometimes you want some combination of both regions -- just edit the
   lines to keep what you want
 - You can bail out of a merge with `git merge --abort`
-
-# More Recap
-
-\Large
-\centering
-Anything else needs covering?
-
 
 # Getting started with Bitbucket
 
@@ -200,8 +188,7 @@ $ git push origin master
 
 ## The whole kit and caboodle
 
-![The big kahuna: gitflow](images/gitflow.png "The big Kahuna: gitflow"){width=60%}
-
+![The big kahuna: gitflow](/img/version_control_1810/gitflow.png "The big Kahuna: gitflow")
 
 # Pull requests
 
@@ -274,5 +261,20 @@ $ git checkout -b fix_problem
 $ git branch --move <problem branch> <temp name>
 $ git branch --move fix_probem <problem branch>
 ```
+
+# Further reading
+
+- Git book: <https://git-scm.com/book>
+- Atlassian tutorial: <https://www.atlassian.com/git/tutorials>
+- Codecademy: <https://www.codecademy.com/learn/learn-git>
+
+## Image credits
+
+- openclipart:
+    - <https://openclipart.org/detail/16441/box>
+    - <https://openclipart.org/detail/6902/lockers>
+    - <https://openclipart.org/detail/219891/readme-fixed>
+- Atlassian
+
 
 [slides]: /slides/2018-10-31-working-with-others.pdf

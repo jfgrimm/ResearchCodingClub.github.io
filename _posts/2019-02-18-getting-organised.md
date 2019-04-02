@@ -194,8 +194,8 @@ Can be used as alternative to writing raw LaTeX.
 
 ## More information
 
-<http://doc.norang.ca/org-mode.html>
-<http://cachestocaches.com/2016/9/my-workflow-org-agenda/>
+- <http://doc.norang.ca/org-mode.html>
+- <http://cachestocaches.com/2016/9/my-workflow-org-agenda/>
 
 
 

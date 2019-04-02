@@ -50,7 +50,7 @@ From a 2014 survey:
 
 # How to write good software
 
-![xkcd #844](images/xkcd_good_code.png){ width=30% }
+![xkcd #844](/img/xkcd_good_code.png)
 
 # Why use tests?
 
@@ -192,7 +192,7 @@ def test_square_root_minus4():
 
 # What is version control?
 
-![Is_this_version_control_meme.jpg](images/simple_version_control.png){ width=75% }
+![Is_this_version_control_meme.jpg](/img/simple_version_control.png)
 
 # What is version control?
 
@@ -258,14 +258,16 @@ def calculate_force(position, momentum):
 # Resources
 
 - Physics Coding Club!
-    - https://physicscodingclub.github.io/
+    - <https://physicscodingclub.github.io/>
 - Research Computing Training and Support
-    - https://wiki.york.ac.uk/display/RCTS/Research+Computing+Training+and+Support
+    - <https://wiki.york.ac.uk/display/RCTS/Research+Computing+Training+and+Support>
 - Research Software Engineering Association
-    - https://rse.ac.uk/events/rse-webinar-series/
+    - <https://rse.ac.uk/events/rse-webinar-series/>
 - Software Sustainability Institute
-    - https://software.ac.uk/
+    - <https://software.ac.uk/>
 - Working Effectively with Legacy Code by Michael C. Feathers
-- Some material in this talk adapted from https://chryswoods.com/talks
+- Some material in this talk adapted from
+  <https://chryswoods.com/talks>
+- Image from: <https://xkcd.com>
 
 [slides]: /slides/2018-10-10-writing-good-software.pdf

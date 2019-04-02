@@ -652,14 +652,14 @@ $ git push origin master
 
 # Further reading
 
-- Git book: **https://git-scm.com/book**
-- Atlassian tutorial: **https://www.atlassian.com/git/tutorials**
-- Codecademy: **https://www.codecademy.com/learn/learn-git**
+- Git book: <https://git-scm.com/book>
+- Atlassian tutorial: <https://www.atlassian.com/git/tutorials>
+- Codecademy: <https://www.codecademy.com/learn/learn-git>
 
 ## Image credits
 
 - openclipart:
-    - https://openclipart.org/detail/16441/box
-    - https://openclipart.org/detail/6902/lockers
-    - https://openclipart.org/detail/219891/readme-fixed
+    - <https://openclipart.org/detail/16441/box>
+    - <https://openclipart.org/detail/6902/lockers>
+    - <https://openclipart.org/detail/219891/readme-fixed>
 - Atlassian

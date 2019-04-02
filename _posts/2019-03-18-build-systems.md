@@ -482,19 +482,19 @@ CMake needs to be told what to install and where
 
 ## Autotools
 
-- https://www.lrde.epita.fr/~adl/dl/autotools.pdf
+- <https://www.lrde.epita.fr/~adl/dl/autotools.pdf>
 
 ## CMake
 
-- https://cliutils.gitlab.io/modern-cmake/
+- <https://cliutils.gitlab.io/modern-cmake/>
 
 ## Meson
 
-- https://mesonbuild.com/
+- <https://mesonbuild.com/>
 
 ## Python
 
-- https://setuptools.readthedocs.io/en/latest/setuptools.html
-- https://packaging.python.org/tutorials/packaging-projects/
+- <https://setuptools.readthedocs.io/en/latest/setuptools.html>
+- <https://packaging.python.org/tutorials/packaging-projects/>
 
 [slides]: /slides/2019-03-18-build_systems.pdf

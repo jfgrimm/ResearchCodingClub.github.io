@@ -28,8 +28,6 @@ You can get the slides for the talk [here][slides]
 
 # The central ideas
 
-##
-
 - Abstract over related things
 - Give things names
 - Group things in namespaces
@@ -501,8 +499,6 @@ mycode.integrate(data)
   - e.g. Readthedocs <https://readthedocs.org/>
 
 # Conclusion
-
-##
 
 - Abstract over related things
 - Give things names
