@@ -17,6 +17,7 @@ description: Skills and training for people developing research software
 
 # List of links in the navigation bar
 navbar-links:
+  Categories: "tags"
   About Coding Club: "about"
   Our Repositories: "https://github.com/PhysicsCodingClub"
   Resources:
