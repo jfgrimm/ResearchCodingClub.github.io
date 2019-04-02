@@ -2,6 +2,7 @@
 layout: post
 title: Searching for Answers in a Text-Based Universe
 subtitle: A Brief Introduction to Regular Expressions
+tags: regex practical
 ---
 
 Regular expressions are a powerful way to express patterns in text,

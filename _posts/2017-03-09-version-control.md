@@ -3,6 +3,7 @@ layout: post
 title: Version control
 subtitle: A crash course in git basics
 author: Peter Hill
+tags: version-control basics
 ---
 
 Version control is one of the essential tools for anyone developing

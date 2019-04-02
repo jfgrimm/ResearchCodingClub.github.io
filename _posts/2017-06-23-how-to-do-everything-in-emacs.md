@@ -1,6 +1,7 @@
 ---
 title: How to do everything in Emacs
 author: Peter Hill
+tags: emacs text-editing practical
 ---
 
 Something a bit different this week. Working with various different

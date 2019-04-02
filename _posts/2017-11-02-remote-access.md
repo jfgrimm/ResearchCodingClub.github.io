@@ -2,6 +2,7 @@
 title: Working with remote computers
 subtitle: SSH tips and tricks
 author: Peter Hill
+tags: ssh
 ---
 
 Often, we need to use computers other than the one currently sat on

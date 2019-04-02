@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Python for scientific calculations
+tags: python
 ---
 
 This week Ben Dudson gave us a crash course in how to use Python

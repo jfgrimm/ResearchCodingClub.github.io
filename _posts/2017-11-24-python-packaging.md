@@ -2,6 +2,7 @@
 title: Python packaging
 subtitle: Your code is important too
 author: Ben Dudson
+tags: Python packaging
 ---
 
 The code we write is often a means to an end: our main outputs are

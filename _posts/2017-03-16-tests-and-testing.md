@@ -3,6 +3,7 @@ layout: post
 title: Tests and testing
 subtitle: Testing scientific codes - the basics
 author: Peter Hill
+tags: testing basics
 ---
 
 Along with version control, tests are essential to good practice for

@@ -3,6 +3,7 @@ layout: post
 title: Documentation
 subtitle: Helping future you
 author: Peter Hill
+tags: documentation basics
 ---
 
 It happens to the best of us -- you come across some incomprehensible

@@ -6,6 +6,7 @@ author: Peter Hill
 classoption: aspectratio=169
 theme: York169dark
 filter: columnfilter.py
+tags: terminal shell basics
 ---
 
 If you do anything at all on the command line in either Linux or OS X,

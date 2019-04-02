@@ -1,6 +1,7 @@
 ---
 title: Common Lisp - The programmable programing language
 author: Ben Dudson
+tags: Lisp practical
 ---
 
 Common Lisp is "the programmable programming language", and is one of

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is a CPU?
+tags: cpu hardware low-level
 ---
 
 This week, Phil Hasnip gave us a guided tour of a modern CPU,

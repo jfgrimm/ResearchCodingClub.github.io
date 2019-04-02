@@ -4,6 +4,7 @@ subtitle: git revisited
 author: Peter Hill
 classoption: aspectratio=169
 theme: York169dark
+tags: version-control basics
 ---
 
 Does this seem familiar: "report.doc", "report_2.doc",

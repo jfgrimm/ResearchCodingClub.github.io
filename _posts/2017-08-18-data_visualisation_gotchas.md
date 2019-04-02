@@ -3,6 +3,7 @@ layout: post
 title: Data Visualisation II
 subtitle: Visualisation Gotchas
 author: Peter Hill
+tags: visualisation data
 ---
 
 Visualising data can be tricky: the human visual perception system is

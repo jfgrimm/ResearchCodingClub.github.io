@@ -2,6 +2,7 @@
 layout: post
 title: Introduction to Version Control
 author: Peter Hill
+tags: version-control practical basics
 ---
 
 `ImportantWork_final_v5_changes_v2_really_done (1).txt`. Look familiar?

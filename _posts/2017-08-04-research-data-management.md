@@ -3,6 +3,7 @@ layout: post
 title: Data Management
 author: Ben Dudson
 date: 4th August 2017
+tags: research data
 ---
 
 * Could you find a document you wrote in 2007?

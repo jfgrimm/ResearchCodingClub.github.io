@@ -1,6 +1,7 @@
 ---
 title: Meltdown and Spectre
 author: Edward Higgins
+tags: bugs low-level
 ---
 
 At the start of 2018, a set of three serious bugs in CPU hardware were

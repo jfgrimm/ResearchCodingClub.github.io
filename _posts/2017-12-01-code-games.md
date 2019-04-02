@@ -2,6 +2,7 @@
 title: Code Games
 subtitle: Or How I Learned To Stop Worrying And Love Code
 author: Jacob Wilkins
+tags: fun practical
 ---
 
 This week was the end of term, so we did something a little bit

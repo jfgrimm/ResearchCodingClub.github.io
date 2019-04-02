@@ -2,6 +2,7 @@
 layout: post
 title: Compilers
 author: Peter Hill
+tags: compilers low-level
 ---
 
 We often treat compilers as a bit of a black-box, without really

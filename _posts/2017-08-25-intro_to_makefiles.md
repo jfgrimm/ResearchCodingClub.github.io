@@ -2,6 +2,7 @@
 layout: post
 title: Introduction to Makefiles
 author: Peter Hill
+tags: makefiles
 ---
 
 If you've ever attempted to compile some software from source, it's

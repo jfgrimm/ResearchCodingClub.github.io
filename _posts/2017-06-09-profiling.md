@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Profiling
+tags: profiling optimisation C C++ Fortran practical
 ---
 
 This week, David Dickinson gave the first of our hands-on sessions,

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Debugging
+tags: debugging C C++ Fortran practical
 ---
 
 Bugs in code are a fact of life, and being able to quickly debug a

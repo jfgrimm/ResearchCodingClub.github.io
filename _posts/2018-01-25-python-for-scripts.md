@@ -1,6 +1,7 @@
 ---
 title: Using Python for shell scripts
 author: Peter Hill
+tags: Python
 ---
 
 One of the virtues of a programmer is laziness -- if you find yourself

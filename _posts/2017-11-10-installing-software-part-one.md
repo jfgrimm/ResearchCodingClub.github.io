@@ -2,6 +2,7 @@
 title: Installing Software on Linux
 subtitle: Part One
 author: Peter Hill
+tags: Linux software
 ---
 
 Whatever you're doing in your research, it won't be long before you

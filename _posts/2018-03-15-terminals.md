@@ -1,6 +1,7 @@
 ---
 title: Using the terminal effectively
 author: Peter Hill
+tags: Linux shell
 ---
 
 This week, Peter through some tips and tricks for upping your terminal

@@ -1,6 +1,8 @@
 ---
+layout: post
 title: Hands on Object-Oriented Programming
 author: Peter Hill
+tags: objects Python practical
 ---
 
 Object-Oriented Programming (OOP) is one of the major paradigms in

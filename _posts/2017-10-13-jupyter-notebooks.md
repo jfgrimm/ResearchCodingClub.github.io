@@ -2,6 +2,7 @@
 layout: post
 title: Introduction to Jupyter Notebooks
 author: Steve Biggs
+tags: Python practical
 ---
 
 This week, Steve led a hands-on demo introducing Jupyter

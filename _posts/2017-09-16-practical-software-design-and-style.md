@@ -5,6 +5,7 @@ author: Phil Hasnip
 classoption: aspectratio=169
 theme: York169dark
 filter: columnfilter.py
+tags: software
 ---
 
 Coding Club this week was all about practical considerations when you're starting a new piece of software. Where should you start? How much effort should you put in? What things do you need to think about when you're writing it? Lessons were drawn from examples in [Unix][unix], the [ASCI][asci] re-write projects and the [CASTEP][castep] re-write.

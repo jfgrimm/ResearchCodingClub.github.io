@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Test driven development
+tags: testing Python practical
 ---
 
 Unit tests and test driven development (TDD) are powerful software
