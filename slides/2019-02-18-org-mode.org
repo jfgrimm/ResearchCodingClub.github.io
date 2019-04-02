@@ -1,0 +1,145 @@
+#+TITLE: Getting ORGanised
+#+AUTHOR: Ben Dudson
+
+elisp:org-show-mode
+elisp:org-show-start-slideshow
+
+* Title slide                                                         :slide:
+#+BEGIN_SRC emacs-lisp-slide
+(org-show-animate '("Getting ORGanised" "Ben Dudson"))
+#+END_SRC
+
+* What is ORG mode?                                                   :slide:
+
+  - Text-based way to organise notes, links, code, and more
+  - *Time management tool*
+    - TODO lists
+    - Tasks, projects
+  - Table editor, spreadsheet
+  - Interactive code notebook
+  - Can be exported to LaTeX, markdown, HTML,...
+
+All in Emacs!
+
+[[https://github.com/caiorss/Emacs-Elisp-Programming/blob/master/Org-Mode.org][Reference / summary]]
+
+* The ORG file format                                                 :slide:
+
+A simple text format like Markdown. 
+
+ - Anything can be edited, fixed easily by hand if needed.
+ - You can start simple, and discover extra features
+   [Try Alt right/left, shift right/left]
+
+* Links                                                               :slide:
+
+Links files, URLs, shell command, elisp, DOI, ...
+
+http://www.google.com
+
+doi:10.5281/zenodo.2530733
+
+* LaTeX                                                               :slide:
+
+ - Standard LaTeX formulae are recognised and rendered
+ 
+Inline like this $e^{i\pi} = -1$
+
+\[
+e^{i\theta} = \cos\left(\theta\right) + i\sin\left(\theta\right)
+\]
+
+Toggle equation view: C-c C-x C-l 
+
+
+* Tables                                                              :slide:
+
+ - Start creating a table with "| headings |" then TAB
+ - Alt + arrow keys move columns, rows
+ - Functions can also manipulate cells
+
+
+* Source code, notebooks                                              :slide:
+
+- Type "<s TAB" (other shortcuts for Examples, Quotes, ...)
+- Supports [[https://orgmode.org/manual/Languages.html][many languages]]
+- C-c C-c runs the code block
+
+* Tables and code blocks                                              :slide:
+
+- Tables can be used as input and output to code blocks
+- Provides a way to pass data between languages
+
+#+NAME: cxx-generate
+#+BEGIN_SRC C++ :includes <iostream> 
+for(int i = 0; i < 5; i++) {
+  std::cout << i << ", " << i*i - 2*i << "\n";
+}
+#+END_SRC
+
+#+RESULTS: cxx-generate
+| 0 |  0 |
+| 1 | -1 |
+| 2 |  0 |
+| 3 |  3 |
+| 4 |  8 |
+
+#+BEGIN_SRC python :var data=cxx-generate
+import matplotlib.pyplot as plt
+import numpy as np
+d = np.array(data)
+plt.plot(d[:, 0], d[:, 1])
+plt.show()
+#+END_SRC
+
+#+RESULTS:
+: None
+
+* Task management                                                     :slide:
+
+Creating tasks in org-mode: 
+
+- Add "TODO" to the start of a (sub)section (or S-right)
+- C-c C-d to choose a deadline from calendar
+- C-c a   to see Agenda views
+
+* More task management                                                :slide:
+
+- Once tasks are done they can be marked "DONE"
+- Other states can be customised: NEXT, WAITING, CANCELLED,...
+  S-right to cycle between states, type C-c C-t 
+  or just write yourself.
+
+
+This can be customised to fit your preferred way of working
+
+ - Getting Things Done (GTD) 
+
+* Time management                                                     :slide:
+  
+How much time to you spend on each task?
+
+- C-c C-x C-i  clock in
+- C-c C-x C-o  clock out
+- C-c a c      Agenda clock view
+- C-c C-x C-r  Insert / update clock table
+
+* Presentations!                                                      :slide:
+
+This presentation is Org mode with [[https://github.com/jkitchin/scimax/tree/master/org-show][org-show]]
+
+Files can be exported to many other formats: C-c C-e
+
+e.g. LaTeX -> PDF C-c C-e l p
+
+Can be used as alternative to writing raw LaTeX.
+
+
+** More information
+http://doc.norang.ca/org-mode.html
+http://cachestocaches.com/2016/9/my-workflow-org-agenda/
+
+* Final slide                                                         :slide:
+#+BEGIN_SRC emacs-lisp-slide
+(org-show-animate '("Enjoy!" "Any questions?"))
+#+END_SRC
