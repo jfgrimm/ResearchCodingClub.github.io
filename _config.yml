@@ -8,7 +8,7 @@ url: "http://physicscodingclub.github.io"
 baseurl: ""
 
 # Name of website
-title: Physics Coding Club
+title: Coding Club
 
 # Short description of your site
 description: Skills and training for people developing research software
@@ -59,7 +59,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Physics Coding Club
+  name: Coding Club
   email: "physics-coding-club-group@york.ac.uk"
   github: PhysicsCodingClub
 
@@ -166,7 +166,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "Physics Coding Club"
+      author: "Coding Club"
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts

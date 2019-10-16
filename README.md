@@ -1,6 +1,6 @@
-# Physics Coding Club
+# Coding Club
 
-This is the website for the Physics Coding Club at the University of
+This is the website for the Coding Club at the University of
 York. It is built using the [Beautiful Jekyll][beautiful-jekyll]
 theme. Adding a new blog post is incredibly simple:
 
