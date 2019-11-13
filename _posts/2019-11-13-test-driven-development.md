@@ -185,7 +185,7 @@ $ pytest ./test_calculator.py::test_add_both_positive
    tests look like
 6. **Extention**: what happens if you write a test to use floats? Why
    would `assert actual == expected` not be so great here? Read the
-   documentation for `numpy.isclose` and see if you can use that
+   documentation for `math.isclose` and see if you can use that
 7. **Extention**: can you extend `calculator.add` to work with strings
    and/or lists instead of integers?
 
@@ -377,7 +377,7 @@ Now we keep going to add new features.
    already developed, test and implement `multiply` and `divide` using
    test driven development
 2. Implement some extra features using TDD, e.g.
-    - handle floats (see `numpy.isclose`)
+    - handle floats (see `math.isclose`)
     - handle two numbers passed in as strings
     - element-wise array operations (see `numpy.allclose`)
     - raise exceptions for invalid inputs (see `pytest.raises`)
