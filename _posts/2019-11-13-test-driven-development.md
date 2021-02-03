@@ -169,7 +169,7 @@ $ pytest ./test_calculator.py::test_add_both_positive
 # Exercise - Write Some Unit Tests
 
 1. Download the basic `calulator.py` file from:
-   <https://physicscodingclub.github.io/examples/tdd_19113/calculator.py>
+   <https://researchcodingclub.github.io/examples/tdd_19113/calculator.py>
     - Or write your own!
 2. Make another file, `test_calculator.py` and write a function
    `test_add_two_positive` that uses `assert` to check the result of

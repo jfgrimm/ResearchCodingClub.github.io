@@ -257,8 +257,8 @@ def calculate_force(position, momentum):
 
 # Resources
 
-- Physics Coding Club!
-    - <https://physicscodingclub.github.io/>
+- Research Coding Club!
+    - <https://researchcodingclub.github.io/>
 - Research Computing Training and Support
     - <https://wiki.york.ac.uk/display/RCTS/Research+Computing+Training+and+Support>
 - Research Software Engineering Association

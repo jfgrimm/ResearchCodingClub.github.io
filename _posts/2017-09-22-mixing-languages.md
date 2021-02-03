@@ -13,7 +13,7 @@ Have you ever wanted to use a Python GUI with your C functions? What about combi
 You can find the repository for the examples [here][examples], the slides for Python+f2py [here][f2py] and the Cython slides  [here][Cython].
 
 [f90wrap]: https://github.com/jameskermode/f90wrap
-[examples]: https://github.com/PhysicsCodingClub/MixedLanguages
+[examples]: https://github.com/ResearchCodingClub/MixedLanguages
 [f2py]: /slides/2017-09-22-Python-Fortran-f2py.pdf
 [Cython]: /slides/2017-09-22-Python-C-cython.pdf
 

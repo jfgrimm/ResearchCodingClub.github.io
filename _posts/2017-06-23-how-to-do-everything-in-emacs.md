@@ -466,12 +466,12 @@ See [`customisations/4-c-like-languages.el`][4-c-like-languages] for some more u
 ```
 
 
-[git_repo]: https://github.com/PhysicsCodingClub/EverythingWithEmacs
-[0-basic]: https://github.com/PhysicsCodingClub/EverythingWithEmacs/blob/master/customisations/0-basic.el
-[1-packages]: https://github.com/PhysicsCodingClub/EverythingWithEmacs/blob/master/customisations/1-packages.el
-[2-magit]: https://github.com/PhysicsCodingClub/EverythingWithEmacs/blob/master/customisations/2-magit.el
-[3-auctex]: https://github.com/PhysicsCodingClub/EverythingWithEmacs/blob/master/customisations/3-auctex.el
-[4-c-like-languages]: https://github.com/PhysicsCodingClub/EverythingWithEmacs/blob/master/customisations/4-c-like-languages.el
-[5-helm-projectile]: https://github.com/PhysicsCodingClub/EverythingWithEmacs/blob/master/customisations/5-helm-projectile.el
-[6-python]: https://github.com/PhysicsCodingClub/EverythingWithEmacs/blob/master/customisations/6-python.el
-[multiple-cursors]: https://github.com/PhysicsCodingClub/EverythingWithEmacs/blob/master/customisations/multiple-cursors.el
+[git_repo]: https://github.com/ResearchCodingClub/EverythingWithEmacs
+[0-basic]: https://github.com/ResearchCodingClub/EverythingWithEmacs/blob/master/customisations/0-basic.el
+[1-packages]: https://github.com/ResearchCodingClub/EverythingWithEmacs/blob/master/customisations/1-packages.el
+[2-magit]: https://github.com/ResearchCodingClub/EverythingWithEmacs/blob/master/customisations/2-magit.el
+[3-auctex]: https://github.com/ResearchCodingClub/EverythingWithEmacs/blob/master/customisations/3-auctex.el
+[4-c-like-languages]: https://github.com/ResearchCodingClub/EverythingWithEmacs/blob/master/customisations/4-c-like-languages.el
+[5-helm-projectile]: https://github.com/ResearchCodingClub/EverythingWithEmacs/blob/master/customisations/5-helm-projectile.el
+[6-python]: https://github.com/ResearchCodingClub/EverythingWithEmacs/blob/master/customisations/6-python.el
+[multiple-cursors]: https://github.com/ResearchCodingClub/EverythingWithEmacs/blob/master/customisations/multiple-cursors.el

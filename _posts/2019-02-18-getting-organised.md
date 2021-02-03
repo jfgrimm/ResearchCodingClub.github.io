@@ -25,7 +25,7 @@ You can get the original org-mode file from [here][orgfile]
 
 All in Emacs!
 
-[Setup Emacs configuration](https://github.com/PhysicsCodingClub/EverythingWithEmacs/blob/master/customisations/7-org-mode.el)
+[Setup Emacs configuration](https://github.com/ResearchCodingClub/EverythingWithEmacs/blob/master/customisations/7-org-mode.el)
 
 [Reference / summary](https://github.com/caiorss/Emacs-Elisp-Programming/blob/master/Org-Mode.org)
 

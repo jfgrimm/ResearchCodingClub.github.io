@@ -16,4 +16,4 @@ You can get the slides for the talk [here][slides] and the example files used
 during the sessions [here][repo].
 
 [slides]: /slides/2017-07-14-searching_for_answers.pdf
-[repo]: https://github.com/PhysicsCodingClub/SearchingForAnswers
+[repo]: https://github.com/ResearchCodingClub/SearchingForAnswers
