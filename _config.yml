@@ -8,7 +8,7 @@ url: "http://researchcodingclub.github.io"
 baseurl: ""
 
 # Name of website
-title: Coding Club
+title: Research Coding Club
 
 # Short description of your site
 description: Skills and training for people developing research software
@@ -19,7 +19,7 @@ description: Skills and training for people developing research software
 navbar-links:
   Archive: "archive"
   Categories: "tags"
-  About Coding Club: "about"
+  About Research Coding Club: "about"
   Our Repositories: "https://github.com/ResearchCodingClub"
   Resources:
     - "Resources"               # This is treated specially to parse the "resources collection"
