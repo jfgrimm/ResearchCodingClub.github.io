@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://physicscodingclub.github.io"
+url: "http://researchcodingclub.github.io"
 baseurl: ""
 
 # Name of website
@@ -20,7 +20,7 @@ navbar-links:
   Archive: "archive"
   Categories: "tags"
   About Coding Club: "about"
-  Our Repositories: "https://github.com/PhysicsCodingClub"
+  Our Repositories: "https://github.com/ResearchCodingClub"
   Resources:
     - "Resources"               # This is treated specially to parse the "resources collection"
 Tags: "tags"
@@ -59,9 +59,9 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Coding Club
-  email: "physics-coding-club-group@york.ac.uk"
-  github: PhysicsCodingClub
+  name: Research Coding Club
+  email: "research-coding-club-group@york.ac.uk"
+  github: ResearchCodingClub
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -166,7 +166,7 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "Coding Club"
+      author: "Research Coding Club"
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
