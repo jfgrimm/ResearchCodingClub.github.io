@@ -4,23 +4,25 @@ title: About Us
 subtitle: Skills and training for people developing research software
 ---
 
-Coding Club at the University of York is an informal group for people who write or develop
-research software in the Department of Physics. We meet every other Wednesday to discuss various
-topics around developing software, best practices, and so on, including the odd hands-on session
-to learn new skills, or polish rusty ones.
+Coding Club at the University of York is an informal group for people who work with research software.
+We get together every other week, and run two main types of meetup.
 
-Here are some topics we've covered:
+**Drop-in Code Clinic**: a group call on which you can discuss problems / ideas / anything around the 
+topic of research software. Somebody will do their best to point you in the right direction on a problem,
+and all will be happy just to chat!
 
-- Version control
-- Documentation
-- Tests and test driven development
-- How modern CPUs work
-- Understanding compilers
-- Efficient numerical programming with Python
+**Seminars**: we invite people from around the university to deliver a short talk (up to an hour) on a topic 
+of interest. These can be pitched at any level, and usually end with a lively discussion. Some topics we've 
+covered are:
 
-As part of our regular meetings, we also run a drop-in Code Clinic, where you can bring your
-coding questions, programming problems and general research software head-scratchers, and our
-friendly experts will do their best to help you out!
+* Version control
+* Numerical programming with Python
+* Software testing
+* Introductory Bioinformatics
+* Understanding modern CPUs
+* The Software Sustainability Institute
+
+and you can see a (mostly!) full list of past seminars on the website homepage.
 
 Subscribe to [our mailing list][1] (you will need to sign into your University of York account) to
 get updates on upcoming meetings.
@@ -29,5 +31,5 @@ We also have a [Slack channel][2] on the University of York Slack workspace, whe
 any time to get help and advice. This is currently only available to staff and research
 postgraduate students.
 
-[1]: https://groups.google.com/a/york.ac.uk/forum/?hl=en-GB#!forum/physics-coding-club-group/join
+[1]: https://groups.google.com/a/york.ac.uk/forum/?hl=en-GB#!forum/research-coding-club-group/join
 [2]: https://uoy.slack.com/archives/C015ZG0CVBL
