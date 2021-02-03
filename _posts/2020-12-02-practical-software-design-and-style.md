@@ -1,7 +1,7 @@
 ---
 title: Practical software design and style
 author: Phil Hasnip
-tags: Programming, Software engineering
+tags: programming software-engineering
 ---
 
 This Coding Club talk focused on the practical decisions facing you when you're starting a new piece of software. What are the important design decisions and what are the implications? Can you realistically write software which will be sustainable for many years? Lessons were drawn from examples in [Unix][unix], the [ASCI][asci] re-write projects and the [CASTEP][castep] re-write.

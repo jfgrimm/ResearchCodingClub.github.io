@@ -1,7 +1,7 @@
 ---
 title: Introduction to GPU programming
 author: Killian Murphy 
-tags: HPC, GPU
+tags: HPC GPU
 ---
 
 In recent years, GPUs have become an important tool in research computing. GPUs are also complex beasts to tame, and care is required when using them in order to ensure that you don't end up with another bottleneck in your worfklow.
